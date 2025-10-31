@@ -1,5 +1,4 @@
 # Employee-productivity-prediction
-#  Employee Productivity Prediction — Machine Learning Project
 
 ##  Overview  
 This project predicts the productivity of garment factory employees using machine learning techniques in **Python**.  
