@@ -8,7 +8,7 @@ It showcases a complete **data science workflow** — from cleaning raw data to 
 
 
 
-## 🎯 Key Features  
+##  Key Features  
 - Cleaned and prepared raw data using **Pandas** and **NumPy** (handled missing values, converted categorical features using dummy variables).  
 - Conducted **exploratory data analysis (EDA)** to visualize patterns and correlations using **Matplotlib** and **Seaborn**.  
 - Built and compared **Decision Tree** and **Random Forest** models using **Scikit-learn**.  
@@ -35,7 +35,7 @@ It showcases a complete **data science workflow** — from cleaning raw data to 
 - Demonstrates a practical, end-to-end **machine learning pipeline** for real-world manufacturing data.
 
 
-## 🚀 How to Run  
+## How to Run  
 ```bash
 # Clone this repository
 git clone https://github.com/<your-username>/employee-productivity-ml.git
